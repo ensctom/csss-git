@@ -10,7 +10,7 @@ void sum(int *array) {
 }
 // Find the total number of elements in the array
 void total(int *array) {
-	
+	somethingsomething
 }
 
 // Randomly shuffle the array
